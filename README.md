@@ -4,3 +4,6 @@ Professor: Antônio Ricart
 
 Alunos
 - [Francisco Everton Maciel Rodrigues]
+- [Nicolas Emidio Ferreira Tavares]
+- [Maria Livya Lima da Silva]
+- [Gabriel Pereira Bezerra]
