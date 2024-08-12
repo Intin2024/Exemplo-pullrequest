@@ -3,4 +3,4 @@
 Professor: Antônio Ricart
 
 Alunos
-- [nome]
+- [Francisco Everton Maciel Rodrigues]
