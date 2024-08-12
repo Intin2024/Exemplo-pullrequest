@@ -7,3 +7,4 @@ Alunos
 - [Nicolas Emidio Ferreira Tavares]
 - [Maria Livya Lima da Silva]
 - [Gabriel Pereira Bezerra]
+- [Guilherme da Silva Mariano]
