@@ -8,3 +8,4 @@ Alunos
 - [Maria Livya Lima da Silva]
 - [Gabriel Pereira Bezerra]
 - [Guilherme da Silva Mariano]
+- [Lucas das Chagas de Souza]
