@@ -1,6 +1,6 @@
 # Chamada 12/08/2024
 
-Professor: Antônio Ricart
+Professor: Antônio Ricart J de O Medeiros
 
 Alunos
 - [Francisco Everton Maciel Rodrigues]
